@@ -36,7 +36,7 @@ const Nav1 = () => {
               </radialGradient>
             </defs>
           </svg>
-          <h4 className="text-black text-xl font-bold">legacy.skiper/ui</h4>
+          <h4 className="text-black text-xl font-bold">Formo/ui</h4>
           <span className="text-sm border border-orange-600 rounded-xl px-3 text-orange-600">
             Beta
           </span>

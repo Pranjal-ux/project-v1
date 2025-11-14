@@ -49,6 +49,7 @@ const TemplateCard = () => {
           ))}
         </div>
       </div>
+      
     </div>
   );
 };
